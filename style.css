@@ -6,3 +6,17 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+.welcome-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: 100px;
+  border-radius: 10px;
+  color: white;
+  background-color: red;
+  outline: none;
+  border: none;
+}
